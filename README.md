@@ -2,7 +2,7 @@
 - 👀 I’m interested in languages (not only programming ones), MTG and board games, hiking and books.
 - 🌱 I’m currently learning Spanish and Italian and focusing on full-stack technologies.
 - 💞️ I’m looking to collaborate on web development.
-- 📫 Reach me on insta @bunifelippetti (IG)
+- 📫 Reach me on insta @bunifelippetti
 
 <!---
 bunifelippetti/bunifelippetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
